@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-08-15T23:09:37 IST" name="Suite" finished-at="2021-08-15T23:09:37 IST" duration-ms="45">
+    <groups>
+    </groups>
+    <test started-at="2021-08-15T23:09:37 IST" name="Test" finished-at="2021-08-15T23:09:37 IST" duration-ms="45">
+      <class name="practicemaven.Mavanjava.ApiTest">
+        <test-method signature="mobAPI()[pri:0, instance:practicemaven.Mavanjava.ApiTest@4efac082]" started-at="2021-08-15T23:09:37 IST" name="mobAPI" finished-at="2021-08-15T23:09:37 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- mobAPI -->
+        <test-method signature="webAPI()[pri:0, instance:practicemaven.Mavanjava.ApiTest@4efac082]" started-at="2021-08-15T23:09:37 IST" name="webAPI" finished-at="2021-08-15T23:09:37 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- webAPI -->
+      </class> <!-- practicemaven.Mavanjava.ApiTest -->
+      <class name="practicemaven.Mavanjava.SeleniumTest">
+        <test-method signature="logIn()[pri:0, instance:practicemaven.Mavanjava.SeleniumTest@59505b48]" started-at="2021-08-15T23:09:37 IST" name="logIn" finished-at="2021-08-15T23:09:37 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logIn -->
+        <test-method signature="logOut()[pri:0, instance:practicemaven.Mavanjava.SeleniumTest@59505b48]" started-at="2021-08-15T23:09:37 IST" name="logOut" finished-at="2021-08-15T23:09:37 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- logOut -->
+      </class> <!-- practicemaven.Mavanjava.SeleniumTest -->
+      <class name="practicemaven.Mavanjava.AppiumTest">
+        <test-method signature="androidTest()[pri:0, instance:practicemaven.Mavanjava.AppiumTest@437da279]" started-at="2021-08-15T23:09:37 IST" name="androidTest" finished-at="2021-08-15T23:09:37 IST" duration-ms="6" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- androidTest -->
+        <test-method signature="iosTest()[pri:0, instance:practicemaven.Mavanjava.AppiumTest@437da279]" started-at="2021-08-15T23:09:37 IST" name="iosTest" finished-at="2021-08-15T23:09:37 IST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- iosTest -->
+      </class> <!-- practicemaven.Mavanjava.AppiumTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
